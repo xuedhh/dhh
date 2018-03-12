@@ -2,4 +2,5 @@
 echo 23r23423;
 echo "wolaiceshi";
 echo "zheshishenmo";
+echo 2222;
 ?>
